@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875668519175",
+    "firebase_url": "https://agregandooperacionesanuestrabd.firebaseio.com",
+    "project_id": "agregandooperacionesanuestrabd",
+    "storage_bucket": "agregandooperacionesanuestrabd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875668519175:android:7f490a3654bf62df73eda2",
+        "android_client_info": {
+          "package_name": "com.example.agregandooperacionesanuestrabd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875668519175-ddo33sol8t3ds45ce6vl4fvnekois945.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agregandooperacionesanuestrabd",
+            "certificate_hash": "74598e2156530ae1b016c2229694d4cad9b12c81"
+          }
+        },
+        {
+          "client_id": "875668519175-svk7q1kor4sno6u2gbo5lhoc3v46opr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClVDi70extavvH3bhjOrh8tXN5s1NkEaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875668519175-svk7q1kor4sno6u2gbo5lhoc3v46opr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
